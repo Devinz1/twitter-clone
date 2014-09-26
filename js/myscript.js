@@ -10,13 +10,13 @@ $(document).ready(function() {
 	$('.tweet-content').click(function()){
 		$(this).animate({
 			"width" : '100%',
-			"height" : '500px'
+			"height" : '50px'
 		}, 5000, function() {
 
 		});
  	});
   
-   });
+   //});
 
-});
+//});
 
