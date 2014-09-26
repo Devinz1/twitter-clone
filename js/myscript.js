@@ -7,14 +7,14 @@ $(document).ready(function() {
    		
  });
    
-	$('.tweet-content').click(function()){
-		$(this).animate({
-			"width" : '100%',
-			"height" : '50px'
-		}, 5000, function() {
+	//$('.tweet-content').focus(function()){
+		//$(this).animate({
+			//"width" : '100%',
+			//"height" : '50px'
+		//}, 5000, function() {
 
-		});
- 	});
+		//});
+ 	//});
   
    //});
 
