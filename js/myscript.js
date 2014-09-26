@@ -7,11 +7,11 @@ $(document).ready(function() {
    		
  });
    
-	//$('.tweet-content').focus(function()){
+	//$('.tweet-content').click(function()){
 		//$(this).animate({
-			//"width" : '100%',
-			//"height" : '50px'
-		//}, 5000, function() {
+			//"width" : '500px',
+			//"height" : '60px'
+		//}, 1000, function() {
 
 		//});
  	//});
